@@ -1,0 +1,24 @@
+1
+00:00:00,031 --> 00:00:02,836
+So we're creating the best premium full stack course on the internet. Here's a couple of features in this project that will absolutely blow your mind away. This SaaS application is a combination of Figma, Wix Studio, Webflow, Framer, Shopify, and High Level. The last feature that I'm going to show
+
+2
+00:00:11,772 --> 00:00:14,777
+you in this video is the best feature. So stay tuned. Users can create projects inside this application and each project has a dedicated dashboard. So you can take each of these projects and individually sell them to your clients. They can create e-commerce products, payment links that they can send
+
+3
+00:00:24,635 --> 00:00:35,368
+to their customers, SEO, they can see metrics, CMS items that they can use on their web application, and they can also have an authentication system for their web app. Now, the reason why I'm sharing this video is I need your feedback. So use the comment section to suggest cool features that we can add
+
+4
+00:00:38,051 --> 00:00:42,557
+inside this application. Now, for the best feature in this application, your clients can create unlimited websites and unlimited web applications inside each project. They can create reusable components, style sheets, They can create layers. Well, they can also have multiple pages. They can
+
+5
+00:00:56,799 --> 00:00:58,023
+connect CMS items. We're just scratching the surface. There are so many more awesome features in this app that I cannot wait to show you. I'll be sharing all the features in this application on my YouTube channel. So don't forget to subscribe. Now, if you want to be the first one to watch the demo of this
+
+6
+00:01:06,988 --> 00:01:13,086
+project, there's a secret hidden button on my website that will take you to our Telegram waitlist.
+
