@@ -11,6 +11,9 @@ from torch import nn
 import torch.nn.functional as F
 import torchaudio
 import librosa
+import nltk
+nltk.download('punkt_tab')
+
 from nltk.tokenize import word_tokenize
 
 from models import *
@@ -189,11 +192,11 @@ if __name__ == "__main__":
         model_path="Models/LibriTTS/epoch_2nd_00020.pth"
     )
 
-    ref_style = synthesiser.compute_style("Models/LibriTTS/696_92939_000016_000006.wav")
+    ref_style = synthesiser.compute_style("Models/LibriTTS/anger.wav")
 
     # Generate speech
     audio = synthesiser.inference(
-        text="Hello, my name is andreas and I am now testing with the new fine tuned model.",
+        text="Hello, my name is Faizan and I am now testing with the new fine tuned model.",
         ref_s=ref_style,
     )
 
