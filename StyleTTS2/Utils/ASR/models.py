@@ -184,3 +184,6 @@ class ASRS2S(nn.Module):
         hidden = torch.stack(hidden).transpose(0, 1).contiguous()
 
         return hidden, logit, alignments
+
+
+# torch.save(ASRS2S.state_dict(), 'Utils/ASR/epoch_00080.pth')
