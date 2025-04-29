@@ -287,27 +287,21 @@ def main(config_path):
         train_iter = tqdm(enumerate(train_dataloader), desc="Training", total=len(
             train_dataloader), file=sys.stdout, bar_format='{l_bar}{bar:30}{r_bar}')
         
+
         for i, batch in train_iter:
-            try:
-                print(f"Processing batch {i}...")
-                waves = batch[0]
-                batch = [b.to(device) for b in batch[1:]]
-                texts, input_lengths, ref_texts, ref_lengths, mels, mel_input_length, ref_mels = batch
-            except Exception as e:
-                print(f"Error in batch {i}: {e}")
-                continue
             
-            # waves = batch[0]
+            
+            waves = batch[0]
           
 
-            # batch = [b.to(device) for b in batch[1:]]
+            batch = [b.to(device) for b in batch[1:]]
             
-            # texts, input_lengths, ref_texts, ref_lengths, mels, mel_input_length, ref_mels = batch
-            # with torch.no_grad():
-            #     mask = length_to_mask(mel_input_length //
-            #                           (2 ** n_down)).to(device)
-            #     mel_mask = length_to_mask(mel_input_length).to(device)
-            #     text_mask = length_to_mask(input_lengths).to(texts.device)
+            texts, input_lengths, ref_texts, ref_lengths, mels, mel_input_length, ref_mels = batch
+            with torch.no_grad():
+                mask = length_to_mask(mel_input_length //
+                                      (2 ** n_down)).to(device)
+                mel_mask = length_to_mask(mel_input_length).to(device)
+                text_mask = length_to_mask(input_lengths).to(texts.device)
 
                 # compute reference styles
                 if multispeaker and epoch >= diff_epoch:
