@@ -1,24 +1,80 @@
- 1
+1
 00:00:00,031 --> 00:00:02,836
-So we're creating the best premium full stack course on the internet. Here's a couple of features in this project that will absolutely blow your mind away. This SaaS application is a combination of Figma, Wix Studio, Webflow, Framer, Shopify, and High Level. The last feature that I'm going to show
+So we're creating the best premium full stack course on the internet.
 
 2
-00:00:11,772 --> 00:00:14,777
-you in this video is the best feature. So stay tuned. Users can create projects inside this application and each project has a dedicated dashboard. So you can take each of these projects and individually sell them to your clients. They can create e-commerce products, payment links that they can send
+00:00:02,896 --> 00:00:06,202
+Here's a couple of features in this project that will absolutely blow your mind away.
 
 3
-00:00:24,635 --> 00:00:35,368
-to their customers, SEO, they can see metrics, CMS items that they can use on their web application, and they can also have an authentication system for their web app. Now, the reason why I'm sharing this video is I need your feedback. So use the comment section to suggest cool features that we can add
+00:00:06,302 --> 00:00:11,692
+This SaaS application is a combination of Figma, Wix Studio, Webflow, Framer, Shopify, and High Level.
 
 4
-00:00:38,051 --> 00:00:42,557
-inside this application. Now, for the best feature in this application, your clients can create unlimited websites and unlimited web applications inside each project. They can create reusable components, style sheets, They can create layers. Well, they can also have multiple pages. They can
+00:00:11,772 --> 00:00:14,777
+The last feature that I'm going to show you in this video is the best feature.
 
 5
-00:00:56,799 --> 00:00:58,023
-connect CMS items. We're just scratching the surface. There are so many more awesome features in this app that I cannot wait to show you. I'll be sharing all the features in this application on my YouTube channel. So don't forget to subscribe. Now, if you want to be the first one to watch the demo of this
+00:00:14,797 --> 00:00:15,358
+So stay tuned.
 
 6
+00:00:15,479 --> 00:00:20,207
+Users can create projects inside this application and each project has a dedicated dashboard.
+
+7
+00:00:20,247 --> 00:00:24,655
+So you can take each of these projects and individually sell them to your clients.
+
+8
+00:00:24,635 --> 00:00:35,368
+They can create e-commerce products, payment links that they can send to their customers, SEO, they can see metrics, CMS items that they can use on their web application, and they can also have an authentication system for their web app.
+
+9
+00:00:35,468 --> 00:00:37,991
+Now, the reason why I'm sharing this video is I need your feedback.
+
+10
+00:00:38,051 --> 00:00:42,557
+So use the comment section to suggest cool features that we can add inside this application.
+
+11
+00:00:42,577 --> 00:00:51,348
+Now, for the best feature in this application, your clients can create unlimited websites and unlimited web applications inside each project.
+
+12
+00:00:51,568 --> 00:00:54,051
+They can create reusable components, style sheets,
+
+13
+00:00:54,031 --> 00:00:55,054
+They can create layers.
+
+14
+00:00:55,134 --> 00:00:56,739
+Well, they can also have multiple pages.
+
+15
+00:00:56,799 --> 00:00:58,023
+They can connect CMS items.
+
+16
+00:00:58,083 --> 00:00:59,126
+We're just scratching the surface.
+
+17
+00:00:59,146 --> 00:01:02,997
+There are so many more awesome features in this app that I cannot wait to show you.
+
+18
+00:01:03,037 --> 00:01:05,825
+I'll be sharing all the features in this application on my YouTube channel.
+
+19
+00:01:05,865 --> 00:01:06,888
+So don't forget to subscribe.
+
+20
 00:01:06,988 --> 00:01:13,086
-project, there's a secret hidden button on my website that will take you to our Telegram waitlist.
+Now, if you want to be the first one to watch the demo of this project, there's a secret hidden button on my website that will take you to our Telegram waitlist.
 
