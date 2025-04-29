@@ -155,3 +155,13 @@ output_171.wav|The first layer is the emotion classifier, and the next one is th
 output_172.wav|And the reason I have two of these is because we want to separate the sentiment classification from the emotion classification, because it is not the same.|1
 output_174.wav|So these will be separate predictions, and this is what we call task-specific hats, because each of these predicting layers will have a separate task to do.|1
 output_175.wav|So that is how we're going to build up our model.|1
+output_0.wav|When training these multimodal AI models, we have a couple of different options.|1
+output_1.wav|First of all, we can train a model from scratch.|1
+output_2.wav|Second of all, we can also use something called transfer learning.|1
+output_4.wav|So that is what we do when we train from scratch.|1
+output_5.wav|So we just make it ourselves from scratch.|1
+output_6.wav|It's a simple model, so we have full control because we do everything ourselves.|1
+output_7.wav|We can also optimize the model for our specific task.|1
+output_8.wav|It is also pretty small compared to this other option.|1
+output_10.wav|So we can benefit from models that people have actually created already and get better results from that.|1
+output_11.wav|So when we use extra models inside of our architecture, that obviously means we have a larger model size because we have multiple more models inside of our model.|1

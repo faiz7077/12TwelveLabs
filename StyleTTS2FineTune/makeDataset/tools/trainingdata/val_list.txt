@@ -1,3 +1,4 @@
+output_156.wav|ænd wɪɹ ɡˌoʊɪŋ tə dˈuː ðæt wɪððə ɹˈɛz nˈɛt θɹˈiː dˈiː pɹˈiːtɹˈeɪnd mˈɑːdəl. |1
 output_157.wav|wɪɹ ðˈɛn ˈɑːlsoʊ ɡˌoʊɪŋ tə tˈeɪk ðə tˈɛkst, sˌoʊ ðə tɹˈænsfɜːɹ ʌvðə vˈɪdɪoʊ ænd ɹˈʌn ɪt θɹuː ðə bˈɜːd pɹˈiːtɹˈeɪnd mˈɑːdəl. |1
 output_159.wav|wiːl ðˈɛn ˈɑːlsoʊ tˈeɪk ðɪ ˈɔːdɪˌoʊ ænd ɹˈʌn ɪt θɹuː ɐn ˈɔːdɪˌoʊ ɛnkˈoʊdɚ. |1
 output_160.wav|ænd ðɪ ˈaʊtpʊt fɔːɹ ˈiːtʃ əv ðiːz ɛnkˈoʊdɚz wɪl ðˈɛn biː ɐ tˈɛnsɚɹ ʌv sˈaɪz bˈætʃ sˈaɪz bɪkˈʌz wiː tˈeɪk ɐ kˈʌpəl ʌv sˈæmpəlz æɾə tˈaɪm ænd nˌɑːt dʒˈʌst wˈʌn sˈæmpəl. |1

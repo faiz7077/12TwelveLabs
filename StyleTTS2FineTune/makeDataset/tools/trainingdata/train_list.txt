@@ -1,12 +1,22 @@
 output_0.wav|wˌɛn tɹˈeɪnɪŋ ðiːz mˌʌltɪmˈoʊdəl ˌeɪˈaɪ mˈɑːdəlz, wiː hæv ɐ kˈʌpəl ʌv dˈɪfɹənt ˈɑːpʃənz. |1
+output_0.wav|wˌɛn tɹˈeɪnɪŋ ðiːz mˌʌltɪmˈoʊdəl ˌeɪˈaɪ mˈɑːdəlz, wiː hæv ɐ kˈʌpəl ʌv dˈɪfɹənt ˈɑːpʃənz. |1
+output_1.wav|fˈɜːst ʌv ˈɔːl, wiː kæn tɹˈeɪn ɐ mˈɑːdəl fɹʌm skɹˈætʃ. |1
 output_1.wav|fˈɜːst ʌv ˈɔːl, wiː kæn tɹˈeɪn ɐ mˈɑːdəl fɹʌm skɹˈætʃ. |1
 output_2.wav|sˈɛkənd ʌv ˈɔːl, wiː kæn ˈɑːlsoʊ jˈuːs sˈʌmθɪŋ kˈɔːld tɹˈænsfɜː lˈɜːnɪŋ. |1
+output_2.wav|sˈɛkənd ʌv ˈɔːl, wiː kæn ˈɑːlsoʊ jˈuːs sˈʌmθɪŋ kˈɔːld tɹˈænsfɜː lˈɜːnɪŋ. |1
+output_4.wav|sˌoʊ ðæt ɪz wˌʌt wiː dˈuː wɛn wiː tɹˈeɪn fɹʌm skɹˈætʃ. |1
 output_4.wav|sˌoʊ ðæt ɪz wˌʌt wiː dˈuː wɛn wiː tɹˈeɪn fɹʌm skɹˈætʃ. |1
 output_5.wav|sˌoʊ wiː dʒˈʌst mˌeɪk ɪt aɪʊɹsˈɛlvz fɹʌm skɹˈætʃ. |1
+output_5.wav|sˌoʊ wiː dʒˈʌst mˌeɪk ɪt aɪʊɹsˈɛlvz fɹʌm skɹˈætʃ. |1
+output_6.wav|ɪts ɐ sˈɪmpəl mˈɑːdəl, sˌoʊ wiː hæv fˈʊl kəntɹˈoʊl bɪkˈʌz wiː dˈuː ˈɛvɹɪθˌɪŋ aɪʊɹsˈɛlvz. |1
 output_6.wav|ɪts ɐ sˈɪmpəl mˈɑːdəl, sˌoʊ wiː hæv fˈʊl kəntɹˈoʊl bɪkˈʌz wiː dˈuː ˈɛvɹɪθˌɪŋ aɪʊɹsˈɛlvz. |1
 output_7.wav|wiː kæn ˈɑːlsoʊ ˈɑːptɪmˌaɪz ðə mˈɑːdəl fɔːɹ ˌaʊɚ spəsˈɪfɪk tˈæsk. |1
+output_7.wav|wiː kæn ˈɑːlsoʊ ˈɑːptɪmˌaɪz ðə mˈɑːdəl fɔːɹ ˌaʊɚ spəsˈɪfɪk tˈæsk. |1
+output_8.wav|ɪt ɪz ˈɑːlsoʊ pɹˈɪɾi smˈɔːl kəmpˈɛɹd tə ðɪs ˈʌðɚɹ ˈɑːpʃən. |1
 output_8.wav|ɪt ɪz ˈɑːlsoʊ pɹˈɪɾi smˈɔːl kəmpˈɛɹd tə ðɪs ˈʌðɚɹ ˈɑːpʃən. |1
 output_10.wav|sˌoʊ wiː kæn bˈɛnɪfˌɪt fɹʌm mˈɑːdəlz ðæt pˈiːpəl hæv ˈæktʃuːəli kɹiːˈeɪɾᵻd ɔːlɹˌɛdi ænd ɡɛt bˈɛɾɚ ɹɪzˈʌlts fɹʌm ðˈæt. |1
+output_10.wav|sˌoʊ wiː kæn bˈɛnɪfˌɪt fɹʌm mˈɑːdəlz ðæt pˈiːpəl hæv ˈæktʃuːəli kɹiːˈeɪɾᵻd ɔːlɹˌɛdi ænd ɡɛt bˈɛɾɚ ɹɪzˈʌlts fɹʌm ðˈæt. |1
+output_11.wav|sˌoʊ wɛn wiː jˈuːz ˈɛkstɹə mˈɑːdəlz ɪnsˈaɪd ʌv ˌaʊɚɹ ˈɑːɹkɪtˌɛktʃɚ, ðæt ˈɑːbvɪəsli mˈiːnz wiː hæv ɐ lˈɑːɹdʒɚ mˈɑːdəl sˈaɪz bɪkˈʌz wiː hæv mˈʌltɪpəl mˈoːɹ mˈɑːdəlz ɪnsˈaɪd ʌv ˌaʊɚ mˈɑːdəl. |1
 output_11.wav|sˌoʊ wɛn wiː jˈuːz ˈɛkstɹə mˈɑːdəlz ɪnsˈaɪd ʌv ˌaʊɚɹ ˈɑːɹkɪtˌɛktʃɚ, ðæt ˈɑːbvɪəsli mˈiːnz wiː hæv ɐ lˈɑːɹdʒɚ mˈɑːdəl sˈaɪz bɪkˈʌz wiː hæv mˈʌltɪpəl mˈoːɹ mˈɑːdəlz ɪnsˈaɪd ʌv ˌaʊɚ mˈɑːdəl. |1
 output_12.wav|ænd ɪt ˈɑːlsoʊ mˈiːnz ðæt wiː nˈiːd tə fˈaɪnd mˈɑːdəlz ðæt ˈæktʃuːəli fˈɪt ˌaʊɚ tˈæsk. |1
 output_13.wav|sˌoʊ ðɛɹ mˌaɪt ɛɡzˈɪst mˈɑːdəlz, bˌʌt ðeɪ dˈoʊnt ɹˈiəli fˈɪt ˌaʊɚ jˈuːs kˈeɪs. |1
@@ -138,4 +148,3 @@ output_151.wav|sˌoʊ ɪt ɪz dʒˈʌst ɐ wˈeɪ ɪf juː wˈɑːnɚ ɹˈiəli 
 output_152.wav|aɪl dʒˈʌst ɡˌoʊ ɐhˈɛd ænd ɡˌoʊ wɪððə lˈeɪt fjˈuːʒən bɪkˈʌz ɪt ɪz ðə sˈɪmpləst ænd pɹˈɑːbəbli ˈɑːlsoʊ ðə mˈoʊst ɹoʊbˈʌst fɔːɹ stˈɑːɹɾɚz ɪn ˌaʊɚ jˈuːs kˈeɪs. |1
 output_154.wav|sˌoʊ ðɪs ɪz hˌaʊ wɪɹ ɡˌoʊɪŋ tə dˈuː ɐ lˈeɪt fjˈuːʒən. |1
 output_155.wav|sˌoʊ wɪɹ ɡˌoʊɪŋ tə tˈeɪk ðə vˈɪdɪoʊ ænd wɪɹ ɡˌoʊɪŋ tʊ ɛnkˈoʊd ɪt, wˌɪtʃ mˈiːnz wɪɹ ɡˌoʊɪŋ tə tˈɜːn ɪt ˌɪntʊ ɹˈɔː dˈeɪɾə. |1
-output_156.wav|ænd wɪɹ ɡˌoʊɪŋ tə dˈuː ðæt wɪððə ɹˈɛz nˈɛt θɹˈiː dˈiː pɹˈiːtɹˈeɪnd mˈɑːdəl. |1
