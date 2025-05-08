@@ -32,7 +32,7 @@ import sys
 warnings.simplefilter('ignore')
 
 
-accelerator = Accelerator(cpu=True,device_placement=True)
+accelerator = Accelerator()
 
 # simple fix for dataparallel that allows access to class attributes
 
