@@ -23,14 +23,16 @@ import torch
 from torch import nn
 import torch.nn.functional as F
 import torchaudio
-import librosa
+import librosað
 import click
 import shutil
 import warnings
 from tqdm import tqdm
 import sys
 warnings.simplefilter('ignore')
+import os;
 
+os.getenv('CUDA_VISIBLE_DEVICES')
 
 accelerator = Accelerator()
 
